@@ -3297,7 +3297,7 @@ img.u-pull-left {
     bottom              : 0;
     width               : 100%;
     height              : 100%;
-    background-image    : url(../images/stock.jpg);
+    background-image    : url(../images/restock.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
@@ -3665,7 +3665,7 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-    --screen-width   : 229px;
+    --screen-width   : px;
     --screen-height  : 336px;
     padding-top      : var(--vspace-5);
     padding          : 20px;
